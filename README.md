@@ -1,4 +1,4 @@
-<h1 align="left">Oie <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px">, eu sou Tamires Calixto!</h1> 
+<h1 align="left">Oie <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="0px">, eu sou Tamires Calixto!</h1> 
 
 - ⏳ Dev Full Stack em formação
 
