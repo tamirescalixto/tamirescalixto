@@ -1,4 +1,4 @@
-<h1 align="left">Oie <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou Tamires Calixto!</h1> 
+<h1 align="left">Oie <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px">, eu sou Tamires Calixto!</h1> 
 
 - ⏳ Dev Full Stack em formação
 
@@ -10,4 +10,8 @@
   
   ##
   
-    ![Snake animation](https://github.com/tamirescalixto/tamirescalixto/blob/output/github-contribution-grid-snake.svg)
+  <div> 
+ 
+  ![Snake animation](https://github.com/tamirescalixto/tamirescalixto/blob/output/github-contribution-grid-snake.svg)
+ 
+  </div>
