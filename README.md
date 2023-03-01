@@ -1,6 +1,6 @@
 <h1 align="left">Oie, eu sou Tamires Calixto!👩‍💻</h1> 
 
-- ⏳ Dev Full Stack em formação
+- ⏳ Estudante de Análise e Desenvolvimento de Sistemas
 
 <div align="center">
   <a href="https://github.com/tamirescalixto">
